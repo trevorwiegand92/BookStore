@@ -19,6 +19,8 @@ To complete the assignment, you’ll need to do the following:
 
     4. Deploy your application to Heroku with a MongoDB database using MongoDB Atlas.
 
+The application will allow the user to either search freely for books or have the user sign-up/login with their credentials so they can search for new books to read and save books for a later time to review or place on a list of books to purchase.
+
 # Technologies Used
 
 - HTML/CSS/Javascript
