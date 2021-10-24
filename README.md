@@ -28,6 +28,10 @@ To complete the assignment, you’ll need to do the following:
 - Heroku
 - React
 
+## Installation
+
+The deployed application requires no installation. Developers working with this code must have Node.js installed and run `npm i` to install dependencies. Then to run the app, do `npm run develop` in the root folder.
+
 # Links
 
 Github URL: https://github.com/trevorwiegand92/BookStore
